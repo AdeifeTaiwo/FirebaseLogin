@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirebaseLogin</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_age">Age</string>
+    <string name="enter_fullname">Full Name</string>
+    <string name="signup">Sign Up</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="remember_me">Remember Me</string>
+</resources>
